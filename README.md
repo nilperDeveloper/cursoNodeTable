@@ -1,5 +1,7 @@
 #Notas:
 Este es mi primero programa en Node
+Para reconstruir use el comando : npm install
+Para ejecutar el programa use: node app.js -b=#, donde # es la tabla de multiplicacion a generar
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
